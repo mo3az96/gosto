@@ -1,4 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# costum
+/gosto.zip
+/Gosto-Modern-Ecommerce.png
 
 # dependencies
 /node_modules

@@ -11,7 +11,7 @@ export const Pages = () => {
       <Router>
         <Header />
         <Switch>
-          <Route exact path="/gosto">
+          <Route exact path="/">
             <Home />
           </Route>
           <Route exact path="/cart/:id">

@@ -31,7 +31,7 @@ export const Details = () => {
   const history = useHistory();
   const deletes = (id) => {
     dispatch(DELETE(id));
-    history.push("/");
+    history.push("/gosto");
   };
   return (
     <>

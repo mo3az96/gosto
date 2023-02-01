@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e2cc93f7.css",
-    "main.js": "/static/js/main.0d0c48fc.js",
-    "static/media/cart.png": "/static/media/cart.427f0fe88453c51d151d.png",
-    "static/media/logo.svg": "/static/media/logo.9b0b58f362a0cbe507915370c759b3d6.svg",
-    "index.html": "/index.html",
-    "main.e2cc93f7.css.map": "/static/css/main.e2cc93f7.css.map",
-    "main.0d0c48fc.js.map": "/static/js/main.0d0c48fc.js.map"
+    "main.css": "/gosto/static/css/main.34234fda.css",
+    "main.js": "/gosto/static/js/main.5ce6fad1.js",
+    "static/media/cart.png": "/gosto/static/media/cart.427f0fe88453c51d151d.png",
+    "static/media/logo.svg": "/gosto/static/media/logo.9b0b58f362a0cbe507915370c759b3d6.svg",
+    "index.html": "/gosto/index.html",
+    "main.34234fda.css.map": "/gosto/static/css/main.34234fda.css.map",
+    "main.5ce6fad1.js.map": "/gosto/static/js/main.5ce6fad1.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2cc93f7.css",
-    "static/js/main.0d0c48fc.js"
+    "static/css/main.34234fda.css",
+    "static/js/main.5ce6fad1.js"
   ]
 }

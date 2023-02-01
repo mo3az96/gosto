@@ -5,7 +5,7 @@ export const navlist = [
   {
     id: 1,
     text: "home",
-    path: "/",
+    path: "/gosto",
   },
   {
     id: 2,
